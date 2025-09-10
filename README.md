@@ -4,7 +4,7 @@ This project uses deep learning to classify chest X-ray images into two categori
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 The notebook is organized into the following main sections:
 
@@ -36,7 +36,7 @@ The notebook is organized into the following main sections:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **TensorFlow** – For building and training the CNN.
 - **NumPy** – For numerical operations.
@@ -45,7 +45,7 @@ The notebook is organized into the following main sections:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset is organized into three directories:
 
@@ -59,7 +59,7 @@ Each directory contains two subfolders:
 
 ---
 
-## 🧠 Model
+##  Model
 
 The model is a convolutional neural network (CNN) designed to classify X-ray images. It includes:
 
@@ -71,18 +71,19 @@ The model is a convolutional neural network (CNN) designed to classify X-ray ima
 
 ---
 
-## 📈 Results
+##  Results
 
 The model achieves high accuracy in distinguishing between normal and pneumonia-infected X-rays. Sample predictions and visualizations are included in the notebook.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download the dataset using the provided link or use your own.
 2. Update the paths in the notebook if necessary.
 3. Run the cells sequentially to preprocess data, train the model, and evaluate results.
 4. Use the trained model to make predictions on new X-ray images.
+5. You can also access the pre-trained model of this notebook in *models.txt* file
 
 ---
 
