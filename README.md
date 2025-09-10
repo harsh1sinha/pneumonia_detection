@@ -50,8 +50,8 @@ The notebook is organized into the following main sections:
 The dataset is organized into three directories:
 
 - `chest_xray/train/` – Training images
-- `chest_xray/test/` – Validation images
-- `chest_xray/val/` – Test images
+- `chest_xray/val/` – Validation images
+- `chest_xray/test/` – Test images
 
 Each directory contains two subfolders:
 - `NORMAL/`
